@@ -56,31 +56,31 @@ The system allows authenticated users to create, edit, delete, search, and view 
 
 ### Login Page
 
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/login-page)
 
 ### Register Page
 
-![Register Page](screenshots/register-page.png)
+![Register Page](screenshots/register-page)
 
 ### Invoice List
 
-![Invoice List](screenshots/invoice-list.png)
+![Invoice List](screenshots/invoice-list)
 
 ### Invoice List with Pagination
 
-![Invoice List Pagination](screenshots/invoice-list2.png)
+![Invoice List Pagination](screenshots/invoice-list2)
 
 ### Create Invoice - Select Customer
 
-![Create Invoice Customer](screenshots/create-invoice-customer.png)
+![Create Invoice Customer](screenshots/create-invoice-customer)
 
 ### Create Invoice - Select Product
 
-![Create Invoice Product](screenshots/create-invoice-product.png)
+![Create Invoice Product](screenshots/create-invoice-product)
 
 ### Create Invoice - Total Calculation
 
-![Create Invoice Total](screenshots/create-invoice-total.png)
+![Create Invoice Total](screenshots/create-invoice-total)
 
 
 
